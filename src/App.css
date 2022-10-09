@@ -1,0 +1,9 @@
+/*@import url('https://fonts.googleapis.com/css?family=Syne&display=swap');*/
+
+* {
+  font-family: Syne, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
